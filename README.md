@@ -25,10 +25,10 @@ A **multilingual** and talented **teamworker** from Italy, with extensive experi
 - **German** (*intermediate*)
 
 ### IT Skills 💻
-- PowerPoint 
-- Excel
-- Python
-- Git
+- **PowerPoint** 
+- **Excel**
+- **Python**
+- **Git**
 
 ### Me as a Worker 👥
 |Strenghts | Weaknesses |
