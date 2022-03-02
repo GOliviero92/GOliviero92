@@ -6,7 +6,7 @@
 A **multilingual** and talented **teamworker** from Italy, with extensive experience in customer service and support, who would like to jump-start her career in **data analysis and business development**. 
 
 ### Education 📖
-- Currently studying *ML & Data Science* at Integrify Oy
+- Currently studying *Machine Learning & Data Science* at Integrify Oy
 - Master's Degree in *Iternational Business & Development* (University of Parma, Italy)
 - Bachelor's Degree in *Foreign Languages & Cultures* (University of Parma, Italy)
 
@@ -38,7 +38,12 @@ A **multilingual** and talented **teamworker** from Italy, with extensive experi
 |Interested in many things | Lack experience
 |Sociable 
 
-### My Hobbies
+### My Hobbies 🎸
+My main interests include: **music, sports and gaming**. 
+- I have been a *bassist* for many years now and I would like to learn to play the violin!
+- I prefer individual sports (such as *archery, weight-lifting*), but with the right company I can enjoy team sports as well!
+- *RPG* is my thing! Some of my favorite titles include: *The Legend of Zelda, Persona, Final Fantasy, Kingdom Hearts*. 
+- Bonus: I love *cooking*. So relaxing! 
 
 ### Reach Out to Me! 📫
 [Linkedin](https://www.linkedin.com/in/gaia-oliviero/)
