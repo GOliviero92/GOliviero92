@@ -13,7 +13,7 @@ A **multilingual** and talented **teamworker** from Italy, with extensive experi
 ### Working Experience 👩‍💼
 |Field| Job |
 | ---------------- | ---------------- |
-|Customer Service |       Waitress, Shift Manager, Sales Assistant|
+|Customer Service |       Shift Manager, Sales Assistant, Waitress|
 |Education  |   Teacher of Italian, English, Spanish
 |Administration | Office Assistant
 
@@ -34,13 +34,14 @@ A **multilingual** and talented **teamworker** from Italy, with extensive experi
 |Strenghts | Weaknesses |
 | ---------------- | ---------------- |
 | Eager to learn |         Impatient  |
-|Curious   |           Stubborn
-|Interested in many things | Lack experience
-|Sociable 
+|Organized   |           Stubborn
+|Fast-learner |  Lacking experience
+|Sociable | Not very self-confident
+|Team player | Impulsive
 
 ### My Hobbies 🎸
-My main interests include: **music, sports and gaming**. 
-- I have been a *bassist* for many years now and I would like to learn to play the violin!
+My main interests include: **music, arts, sports and gaming**. 
+- I have been a *bassist* for many years now and I would like to learn to play the violin! I also enjoy *drawing, painting* and visiting *arts museums*.
 - I prefer individual sports (such as *archery, weight-lifting*), but with the right company I can enjoy team sports as well!
 - *RPG* is my thing! Some of my favorite titles include: *The Legend of Zelda, Persona, Final Fantasy, Kingdom Hearts*. 
 - Bonus: I love *cooking*. So relaxing! 
