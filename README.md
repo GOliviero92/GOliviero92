@@ -1,16 +1,27 @@
-### Hi there 👋
+# Gaia Oliviero
 
-<!--
-**GOliviero92/GOliviero92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Data Science & Machine Learning student based in Helsinki, Finland***
 
-Here are some ideas to get you started:
+### About Me
+A **multilingual** and talented **teamworker** from Italy, with extensive experience in customer service and support, who would like to jump-start her career in **data analysis and business development**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- Currently studying *ML & Data Science* at Integrify Oy
+- Master's Degree in *Iternational Business & Development* (University of Parma, Italy)
+- Bachelor's Degree in *Foreign Languages & Cultures* (University of Parma, Italy)
+
+### Working Experience
+|Field| Job |
+| ---------------- | ---------------- |
+|Customer Service |       Waitress, Shift Manager, Sales Assistant|
+|Education  |   Teacher of Italian, English, Spanish
+|Administration | Office Assistant
+
+
+|Strenghts | Weaknesses |
+| ---------------- | ---------------- |
+| Eager to learn |         Impatient  |
+|Curious   |           Stubborn
+|Interested in many things | Lack experience
+|Sociable 
+
